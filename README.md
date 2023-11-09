@@ -32,7 +32,7 @@ This should work happily with the package manager of your choice, though we have
 
 ## 💭 Your thoughts
 
-We find it useful if you can document some of your thinking, including what you would improve given more time.
-known issues and how you would resolve them given more time. Technical decisions, design decisions, compromises.
+Add even more colour to your submission by outlining the considerations you made with this task. What technical/design decisions and compromises did you make and why?
+What would you improve given more time? What are the known issues and how you would resolve them?
 
 Leave them below and push them with your submission 👇
